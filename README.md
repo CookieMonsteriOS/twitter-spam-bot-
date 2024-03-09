@@ -29,3 +29,13 @@ This Python script is designed to identify potential spam bots on Twitter based 
 2. Modify the `keyword` variable to specify the keyword you want to search for.
 3. Adjust the `num_tweets` variable to set the number of tweets to search through.
 4. Run the script using Python: python twitter_spam.py
+
+## Output
+The script will output a list of potential spam bot usernames found based on the specified keyword and the number of tweets searched.
+
+## Disclaimer
+This script provides a basic approach to identify potential spam bots on Twitter, but it may not capture all spam bot accounts. Use it as a supplementary tool and exercise caution when drawing conclusions based on its output.
+
+## License
+This script is provided under the MIT License. See the LICENSE file for details.
+
